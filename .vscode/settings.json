@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "files.associaltions": "{ \"*.module\": \"php\" }",
+        "*.module": "php"
+    }
+}
